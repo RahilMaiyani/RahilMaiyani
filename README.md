@@ -1,6 +1,7 @@
 # Hi there, I'm Rahil! 👋
 
-🎓 **Computer Engineering Student**  
+🎓 **Computer Engineering Student** @ LJ University
+Currently in my third year of Bachelor of Engineering (BE).
 
 ---
 
