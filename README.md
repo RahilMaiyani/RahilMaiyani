@@ -61,6 +61,7 @@ Java-based desktop application with:
 
 ## 🎯 Currently
 
+* 👥 Working on **OfficeLink** project (HRMS)
 * 🤖 Exploring **AI-assisted development**
 * ⚙️ Improving backend skills
 * 🧪 Building useful projects
@@ -75,4 +76,4 @@ Java-based desktop application with:
 
 ---
 
-> ✨ Trying to build things that are simple, useful, and actually work.
+> ✨ Trying to build things that are useful and actually work.
